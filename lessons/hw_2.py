@@ -1,4 +1,4 @@
-from lessons.main import result
+
 
 #name = input()
 #surname = input()
@@ -6,7 +6,8 @@ from lessons.main import result
 #print(f"Привет, меня зовут {name.title()} {surname.title()}.")
 
 
-a = input()
-b = input()
-result = int(a) + int(b)
-print(result)
+# a = input()
+# b = input()
+# result = int(a) + int(b)
+# print(result)
+
